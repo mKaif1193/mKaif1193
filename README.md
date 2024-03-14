@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bachelor's in Computer Science**
 
-- 💬 Ask me about **Java, C++**
+- 💬 Ask me about **Java, C++, JavaScript**
 
 - 📫 How to reach me **muhammadkaif1193@gmail.com**
 
