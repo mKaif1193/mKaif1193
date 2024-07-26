@@ -14,7 +14,7 @@
 <a href="https://twitter.com/mkaif56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkaif56" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad kaif" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad kaif" height="30" width="40" /></a>
-<a href="https://instagram.com/mkaif560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkaif560" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mkaif056?igsh=MjU3YWo2azZyMjVr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkaif560" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
