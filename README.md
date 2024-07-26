@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bachelor's in Computer Science**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScipt, C++, Java & C#**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScipt, Node JS, Express JS, MongoDB, Oracle Database, MS SQL Server Database, C++, Java & C#**
 
 - 📫 How to reach me **muhammadkaif1193@gmail.com**
 
